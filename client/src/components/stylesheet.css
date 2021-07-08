@@ -1,0 +1,71 @@
+input[Type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid grey;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+div {
+  width: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+form {
+  margin-top: 0.5cm;
+  margin-left: 1cm;
+  border: solid rgb(18, 151, 40);
+  background-color: palegreen;
+  padding: 2%;
+}
+p {
+  font-size: large;
+}
+.btn1 {
+  background-color: rgb(18, 151, 40);
+  border: none;
+  color: black;
+  padding: 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btn1:hover {
+  background-color: green;
+}
+
+/*Empformchild */
+
+.displayId {
+  margin-top: 4%;
+  width: 100%;
+  background-color: ghostwhite;
+}
+.searchTable,
+th,
+td {
+  margin: 5px;
+  border: solid 2px rgb(18, 151, 40);
+  background-color: ghostwhite;
+  border-collapse: collapse;
+}
+
+/* DisplayForm */
+.displayData {
+  margin-top: 0.5cm;
+  margin-left: 1cm;
+  margin-right: 1cm;
+  border: solid rgb(18, 151, 40);
+  background-color: palegreen;
+  padding: 5%;
+}
+
+table,th{
+  
+  border: solid 2px rgb(18, 151, 40);
+  background-color: ghostwhite;
+  border-collapse: collapse;
+}
+

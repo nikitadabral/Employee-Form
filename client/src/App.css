@@ -1,0 +1,9 @@
+.App{
+  display:flex;
+  flex-direction: row;
+  width:100%;
+}
+
+.col1{
+  width: 50%;
+}
